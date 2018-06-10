@@ -55,3 +55,7 @@ body {
 	top: 50%;
 	transform: translate(0, -50%);
 }
+
+#how-it-work {
+	text-align: center;
+}
