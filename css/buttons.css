@@ -4,8 +4,9 @@
 	color: #ffffff;
 	display: inline-block;
 	text-decoration: none;
-	border-radius: 100px;
-	padding: 10px 30px;
+	border-radius: 30px;
+	padding: 10px 20px;
+	transition: ease .5s all;
 
 }
 
