@@ -47,4 +47,5 @@
 .team-member:nth-child(4) .description, .team-member:nth-child(5) .description {
 	left: auto;
 	right: 50%;
+	color: white
 }
